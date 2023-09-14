@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Kanit&family=Mrs+Sheppards&family=Oswald:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #121212;
+}
+
+.bowl{
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
